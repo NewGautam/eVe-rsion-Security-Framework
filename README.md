@@ -1,4 +1,4 @@
-# eVe-rsion-Security-Framework by Dr. Gautam Pandya
+# eVersion-Security-Framework by Dr. Gautam Pandya
 eVersion Security Framework for Enterprise Software Cloud (Platform)
 •	By applying eVersion   Principle to the dreaded Botnets architecture - (Internet Society Policy Brief: Botnets, 30 Oct 2015 (https://www.internetsociety.org/policybriefs/botnets  ).
 •	Using GitHub and Azure Platform for Centrally Controlled, Collaborative Development
